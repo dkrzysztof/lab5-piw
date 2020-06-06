@@ -24,12 +24,9 @@ export default function Zadanie1(props) {
 				<h4>{props.title}</h4>
 				<hr />
 				<p>
-					Lorem ipsum dolor sit amet consectetur adipisicing elit.
-					Deserunt error corrupti, magni quo culpa et inventore,
-					asperiores voluptates, hic cumque doloremque obcaecati!
-					Dolorem quasi ut facilis in, libero enim nam quod
-					perspiciatis officia voluptate quibusdam nesciunt fugit vero
-					placeat iusto et, minus laudantium.
+					Witaj na stronie służącej do dzielenia się obrazkami i
+					informacjami! Podziel się z całym świątem twoją wesołą
+					wiadomością !
 				</p>
 			</div>
 		</React.Fragment>

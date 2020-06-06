@@ -17,9 +17,7 @@ export default function CreatePost() {
 
 	useEffect(() => {
 		document.title = `Kreator: ${post.title}`;
-
-		return () => {};
-	}, [post]);
+	}, [post.title]);
 
 	const handleInput = (e) => {
 		setError(false);

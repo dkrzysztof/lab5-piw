@@ -108,6 +108,3 @@ export default function Zadanie4(props) {
 		</PostsContext.Provider>
 	);
 }
-
-export const UserProvider = UserContext.Provider;
-export const UserConsumer = UserContext.Consumer;
