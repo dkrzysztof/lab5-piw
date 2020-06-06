@@ -1,0 +1,112 @@
+.navbar{
+    position: absolute;
+    top:0;
+    height: 65px;
+    box-shadow: 0 5px 15px 1px #0000006e;
+    width: 100vw;
+    z-index: 2;
+    
+}
+
+.nav{
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    height: inherit;
+}
+
+.brand{
+    width: auto;
+    margin: auto 1em;
+    float: left;
+}
+
+.brand-img{
+    height:auto;
+    width: 100%;
+    display: block;
+    max-width: 70px;
+    cursor: pointer;
+
+}
+
+.navbar-content{
+    width: auto;
+    height: 100%;
+    margin: auto 1em;
+    display: inherit;
+}
+
+.navbar-btn{
+    height: 100%;
+    border: 1px solid transparent;
+    width: 100%;
+    padding: 1em;
+    display: block;
+    box-sizing: border-box;
+    text-align: center;
+    white-space: nowrap;
+    cursor: pointer;
+    position: relative;
+    transition: all 0.2s ease-in;
+    top:0;
+    background-color: var(--bg-color) ;
+
+}
+
+a[href]{
+    color:inherit !important;
+    text-decoration: none !important;
+}
+
+.navbar-btn:hover{
+    border: 1px solid #ffffffea;
+    border-bottom: 4px solid #ffffffea;
+    top:5px;
+}
+
+
+.error{
+    background-color: rgba(255, 74, 74, 0.534);
+    border: 2px solid rgb(255, 74, 74);
+    padding:0.5em 1em;
+    border-radius: 10px;
+}
+
+
+.success{
+    background-color: rgba(74,255, 74, 0.534);
+    border: 2px solid rgb(74,255, 74);
+    padding:0.5em 1em;
+    border-radius: 10px;
+}
+
+.lds-dual-ring {
+    display: inline-block;
+    width: 80px;
+    height: 80px;
+  }
+.lds-dual-ring:after {
+    content: " ";
+    display: block;
+    width: 64px;
+    height: 64px;
+    margin: 8px;
+    border-radius: 50%;
+    border: 6px solid #fff;
+    border-color: #fff transparent #fff transparent;
+    animation: lds-dual-ring 1.2s linear infinite;
+}
+@keyframes lds-dual-ring {
+    0% {
+      transform: rotate(0deg);
+    }
+    100% {
+      transform: rotate(360deg);
+    }
+}
+  
+.post__image{
+    width:100%;
+    height:auto;
+}
