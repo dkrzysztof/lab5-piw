@@ -48,7 +48,7 @@ export default function CreatePost() {
 		<React.Fragment>
 			{error && (
 				<p className="error">
-					Musisz wypełnić trzy pola: tytuł oraz wiadomość !
+					Musisz wypełnić conajmniej dwa pola: tytuł oraz wiadomość !
 				</p>
 			)}
 			{success && <p className="success">Pomyslnie utworzono post !</p>}
