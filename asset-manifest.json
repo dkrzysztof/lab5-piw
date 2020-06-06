@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/lab5-piw/static/css/main.e051cee0.chunk.css",
+    "main.js": "/lab5-piw/static/js/main.b348c100.chunk.js",
+    "main.js.map": "/lab5-piw/static/js/main.b348c100.chunk.js.map",
+    "runtime-main.js": "/lab5-piw/static/js/runtime-main.755498ee.js",
+    "runtime-main.js.map": "/lab5-piw/static/js/runtime-main.755498ee.js.map",
+    "static/js/2.31382ebd.chunk.js": "/lab5-piw/static/js/2.31382ebd.chunk.js",
+    "static/js/2.31382ebd.chunk.js.map": "/lab5-piw/static/js/2.31382ebd.chunk.js.map",
+    "index.html": "/lab5-piw/index.html",
+    "precache-manifest.5e7594cda9ebc986c7d69fd7b646cd70.js": "/lab5-piw/precache-manifest.5e7594cda9ebc986c7d69fd7b646cd70.js",
+    "service-worker.js": "/lab5-piw/service-worker.js",
+    "static/css/main.e051cee0.chunk.css.map": "/lab5-piw/static/css/main.e051cee0.chunk.css.map",
+    "static/js/2.31382ebd.chunk.js.LICENSE.txt": "/lab5-piw/static/js/2.31382ebd.chunk.js.LICENSE.txt",
+    "static/media/logo.png": "/lab5-piw/static/media/logo.8be16200.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.755498ee.js",
+    "static/js/2.31382ebd.chunk.js",
+    "static/css/main.e051cee0.chunk.css",
+    "static/js/main.b348c100.chunk.js"
+  ]
+}
