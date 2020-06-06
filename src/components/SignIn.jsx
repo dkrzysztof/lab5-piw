@@ -35,7 +35,7 @@ export default function SignIn(props) {
 			<form className="column" onSubmit={handleSubmit}>
 				<input
 					type="text"
-					placeholder="Nazwa uzytkownika, która będzie wyświetlana obok twoich postów"
+					placeholder="Nazwa uzytkownika, która będzie wyświetlana obok twoich postów."
 					onChange={handleUsernameChange}
 					value={credentials.username}
 				/>
