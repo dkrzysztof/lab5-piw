@@ -79,7 +79,11 @@ export default function CreatePost() {
 			{post.url && (
 				<div className="holder">
 					<h4>Image Preview</h4>
-					<img src={post.url} alt="image preview" />
+					<img
+						src={post.url}
+						className="post__image"
+						alt="image preview"
+					/>
 				</div>
 			)}
 		</React.Fragment>

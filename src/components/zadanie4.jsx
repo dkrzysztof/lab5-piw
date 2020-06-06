@@ -20,7 +20,7 @@ const PostsState = {
 			author: 'admin',
 			message: 'Witajcie na naszej stronie !',
 			url:
-				'https://i.pinimg.com/originals/77/46/cf/7746cf78a368d8a5d99b7b03f4ef4bc4.jpg'
+				'https://image.freepik.com/free-vector/modern-welcome-lettering-concept_23-2147916978.jpg'
 		}
 	],
 	lastId: 0,
