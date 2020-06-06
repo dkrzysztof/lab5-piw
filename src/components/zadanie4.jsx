@@ -50,7 +50,6 @@ export default function Zadanie4(props) {
 			newPost.hasOwnProperty('id')
 		) {
 			setPosts([newPost, ...posts]);
-		} else {
 		}
 	};
 	PostsState.getNextId = () => {

@@ -25,8 +25,9 @@ export default function Zadanie1(props) {
 				<hr />
 				<p>
 					Witaj na stronie służącej do dzielenia się obrazkami i
-					informacjami! Podziel się z całym świątem twoją wesołą
-					wiadomością !
+					informacjami!
+					<br />
+					Podziel się z całym światem twoją wesołą wiadomością!
 				</p>
 			</div>
 		</React.Fragment>
